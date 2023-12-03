@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Artur Blaya</h1>
 <h3 align="center">A passionate ITC engineer from Barcelona</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/3Eqa.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurblaya&label=Profile%20views&color=0e75b6&style=flat" alt="arthurblaya" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://arturblaya.bio](https://arturblaya.bio)
